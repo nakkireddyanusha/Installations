@@ -14,3 +14,7 @@
 
 Note: In 5th and 6th step make sure you are giving correct username. You can replace the username (ec2-user) based
 on your current logged in user where you want to install docker.
+
+
+RUN rm /etc/localtime
+RUN ln -s /usr/share/zoneinfo/Europe/Istanbul /etc/localtime
