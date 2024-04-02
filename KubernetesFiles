@@ -1,3 +1,0 @@
-Create master node and attach IAM Role(1)
-Create worker node and attach IAM Role(3)
-Create build server , and install (GIT, JAVA, MAVEN, DOCKER, AWS CLI , KUBECTL CLI , KUSTOMIZE CLI )
